@@ -23,6 +23,12 @@ Type any research topic — RAG, LLM agents, diffusion models, anything — and 
 
 PaperPulse returns papers like **GraphRAG**, **CRAG**, and **SWE-agent** — each with a 15-point community thread showing exactly what researchers and practitioners are saying about them online.
 
+
+
+https://github.com/user-attachments/assets/994c2ffa-55be-40b3-925d-b7a7f046fc48
+
+
+
 ---
 
 ## Tech Stack
